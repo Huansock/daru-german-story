@@ -1,9 +1,10 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "다루의 독일이야기",
+  "siteUrl": "https://daru-german-story.netlify.app/",
+  "description": "독일어를 가르치는 한달우입니다",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Guten Tag, ich bin Daru",
+    "description": "다루의 독일이야기 대표 및 독일어강사, 
+    라이프치히대학 독일어교육과 학석사 졸, 독독독인강강사(test b1, c1), 한 번에 끝내는 독일어문법 중고급편(넥서스) 저자"
   }
 }
